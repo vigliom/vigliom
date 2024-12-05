@@ -11,7 +11,7 @@ Soy Jorge Pérez, un desarrollador de software apasionado por el desarrollo web 
 
 ## 📫 Contáctame
 
-[![Email](https://img.shields.io/badge/gMail-D14836?logo=gmail&logoColor=white)](mailto:jorgeperez96jpl@gmail.com)
+[![Email](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:jorgeperez96jpl@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jorpelu/)
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white)](https://github.com/vigliom)
 [![Twitter](https://img.shields.io/badge/-x-1DA1F2?logo=x&logoColor=white)](https://x.com/PerezJorge96)
