@@ -5,9 +5,23 @@ Soy Jorge Pérez, un desarrollador de software apasionado por el desarrollo web 
 ## 🚀 Proyectos Destacados
 
 - [⭐ Vigliom](https://github.com/vigliom/vigliom)
-     Plataforma principal que proporciona un resumen integral de mis conocimientos y experiencia en desarrollo de software.
+    - Plataforma principal que proporciona un resumen integral de mis conocimientos y experiencia en desarrollo de software.
+
+- [▶️ Gestión de Proyecto](https://github.com/vigliom/vigli-project-gestor)
+    - Herramienta para la gestión de proyectos que permite a los equipos planificar, ejecutar y monitorear el progreso de sus proyectos de manera eficiente.
+    ![Under Construction](https://img.shields.io/badge/-Under_Construction-000000?logo=framework&logoColor=black&color=white)
+
 - [▶️ ToDo it!](https://github.com/vigliom/todolist-app)
-    Aplicación de gestión de tareas que permite a los usuarios organizar y priorizar sus actividades diarias de manera eficiente.
+    - Aplicación de gestión de tareas que permite a los usuarios organizar y priorizar sus actividades diarias de manera eficiente.
+    ![Under Construction](https://img.shields.io/badge/-Under_Construction-000000?logo=framework&logoColor=black&color=white)
+
+- [▶️ My Blog](https://github.com/vigliom/myBlog-web)
+    - Plataforma de blog personal donde comparto artículos sobre desarrollo de software, inteligencia artificial y otros temas de interés.
+    ![Under Construction](https://img.shields.io/badge/-Under_Construction-000000?logo=framework&logoColor=black&color=white)
+
+- [▶️ Simple Ecommerce](https://github.com/vigliom/virtual-ecommerce-web-app)
+    - Aplicación de comercio electrónico que permite a los usuarios comprar y vender productos en línea de manera sencilla y segura.
+    ![Under Construction](https://img.shields.io/badge/-Under_Construction-000000?logo=framework&logoColor=black&color=white)
 
 ## 📫 Contáctame
 
@@ -15,7 +29,7 @@ Soy Jorge Pérez, un desarrollador de software apasionado por el desarrollo web 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jorpelu/)
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white)](https://github.com/vigliom)
 [![Twitter](https://img.shields.io/badge/-x-1DA1F2?logo=x&logoColor=white)](https://x.com/PerezJorge96)
-[![Portafolio](https://img.shields.io/badge/-Portafolio-000000?logo=About.me&logoColor=white)](https://jorgeperez.com)
+[![Portafolio](https://img.shields.io/badge/-Portafolio_Under_Construction-000000?logo=framework&logoColor=white)](https://jorgeperez.com)
 
 ## 🛠️ Tecnologías y Herramientas
 
