@@ -4,13 +4,13 @@ Soy [Tu Nombre], un desarrollador de software apasionado por [tu área de inter�
 
 ## 🚀 Proyectos Destacados
 
-- [Proyecto 1](enlace): Breve descripción del proyecto y su objetivo.
-- [Proyecto 2](enlace): Breve descripción del proyecto y su objetivo.
+- [vigliom](https://github.com/vigliom/vigliom): Proyecto principal que incluye [tu descripción aquí].
+- [Otro Proyecto](https://github.com/vigliom/otro-proyecto): Breve descripción del proyecto y su objetivo.
 
 ## 📫 Contáctame
 
 - Email: [tu-email@example.com](mailto:tu-email@example.com)
-- LinkedIn: [Tu Perfil](enlace)
+- LinkedIn: [Tu Perfil](https://www.linkedin.com/in/tu-perfil)
 
 ## 🛠️ Tecnologías y Herramientas
 
