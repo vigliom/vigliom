@@ -4,12 +4,18 @@ Soy Jorge Pérez, un desarrollador de software apasionado por el desarrollo web 
 
 ## 🚀 Proyectos Destacados
 
-- [vigliom](https://github.com/vigliom/vigliom): Proyecto principal que incluye .
-- 
+- [⭐ Vigliom](https://github.com/vigliom/vigliom)
+     Plataforma principal que proporciona un resumen integral de mis conocimientos y experiencia en desarrollo de software.
+- [▶️ ToDo it!](https://github.com/vigliom/todolist-app)
+    Aplicación de gestión de tareas que permite a los usuarios organizar y priorizar sus actividades diarias de manera eficiente.
+
 ## 📫 Contáctame
 
-- Email: [jorgeperez96jpl@gmail.com](mailto:jorgeperez96jpl@gmail.com)
-- LinkedIn: [Jorge Pérez Ludeña](https://www.linkedin.com/in/jorpelu/)
+[![Email](https://img.shields.io/badge/gMail-D14836?logo=gmail&logoColor=white)](mailto:jorgeperez96jpl@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jorpelu/)
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white)](https://github.com/vigliom)
+[![Twitter](https://img.shields.io/badge/-x-1DA1F2?logo=x&logoColor=white)](https://x.com/PerezJorge96)
+[![Portafolio](https://img.shields.io/badge/-Portafolio-000000?logo=About.me&logoColor=white)](https://jorgeperez.com)
 
 ## 🛠️ Tecnologías y Herramientas
 
