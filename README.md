@@ -5,7 +5,7 @@
 ### Full Stack Developer · **Vigliom**
 
 [![Location](https://img.shields.io/badge/📍_Denia,_Alicante-Spain-blue?style=flat-square)](https://goo.gl/maps/alicante)
-[![Languages](https://img.shields.io/badge/🌐_Español_|_Valenciano_|_Inglés-Languages-green?style=flat-square)](#)
+[![Languages](https://img.shields.io/badge/🌐_Español_|_Valenciano_|_Inglés_|_Codigo_|_Por_Telefono_|_Por_Carta-Languages-green?style=flat-square)](#)
 
 *Building digital solutions from concept to deployment*
 
